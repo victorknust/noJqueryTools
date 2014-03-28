@@ -1,0 +1,17 @@
+{
+  "name": "noJqueryTools",
+  "version": "0.0.1",
+  "homepage": "http://www.wcastand.com/",
+  "authors": [
+    "William Castandet"
+  ],
+  "description": "A couple of function for avoiding jQuery",
+  "main": "tools.js",
+  "keywords": [
+    "js", "tools", "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "README.md"
+  ]
+}
