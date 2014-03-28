@@ -69,11 +69,6 @@ function each(el, callback){
   var el = document.querySelectorAll(selector);
   Array.prototype.forEach.call(el, callback);
 }
-function css(el,attr){
-  for(var properties in attr){
-    el.style.+properties = attr[properties];
-  }
-}
 
 
 function ajax(settings) {

@@ -1,17 +1,26 @@
 {
   "name": "noJqueryTools",
   "version": "0.0.1",
-  "homepage": "http://www.wcastand.com/",
+  "homepage": "https://github.com/wcastand/noJqueryTools",
   "authors": [
-    "William Castandet"
+    "wcastand <wcastand@gmail.com>"
   ],
-  "description": "A couple of function for avoiding jQuery",
+  "description": "A couple of Javascript functions Tools for avoiding jQuery",
   "main": "tools.js",
   "keywords": [
-    "js", "tools", "utils"
+    "js",
+    "noJqueryTools",
+    "utils",
+    "tools",
+    "no",
+    "jquery"
   ],
   "license": "MIT",
   "ignore": [
-    "README.md"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
